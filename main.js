@@ -32,7 +32,7 @@ $(document).ready(function () {
     duration: 1800,
     once: true,
   });
-  var primary = "#FE0000";
+  var primary = "#d5b9b9";
   var landingTitle = $("#landingTitle");
   var contactHeading = $("#contact-section-heading");
   var skillHeading = $("#skill-section-heading");
